@@ -1,0 +1,17 @@
+D:\.net\RabbitMq_Prd_Cns\Send\bin\Debug\net7.0\Send.exe
+D:\.net\RabbitMq_Prd_Cns\Send\bin\Debug\net7.0\Send.deps.json
+D:\.net\RabbitMq_Prd_Cns\Send\bin\Debug\net7.0\Send.runtimeconfig.json
+D:\.net\RabbitMq_Prd_Cns\Send\bin\Debug\net7.0\Send.dll
+D:\.net\RabbitMq_Prd_Cns\Send\bin\Debug\net7.0\Send.pdb
+D:\.net\RabbitMq_Prd_Cns\Send\bin\Debug\net7.0\RabbitMQ.Client.dll
+D:\.net\RabbitMq_Prd_Cns\Send\obj\Debug\net7.0\Send.csproj.AssemblyReference.cache
+D:\.net\RabbitMq_Prd_Cns\Send\obj\Debug\net7.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\RabbitMq_Prd_Cns\Send\obj\Debug\net7.0\Send.AssemblyInfoInputs.cache
+D:\.net\RabbitMq_Prd_Cns\Send\obj\Debug\net7.0\Send.AssemblyInfo.cs
+D:\.net\RabbitMq_Prd_Cns\Send\obj\Debug\net7.0\Send.csproj.CoreCompileInputs.cache
+D:\.net\RabbitMq_Prd_Cns\Send\obj\Debug\net7.0\Send.csproj.CopyComplete
+D:\.net\RabbitMq_Prd_Cns\Send\obj\Debug\net7.0\Send.dll
+D:\.net\RabbitMq_Prd_Cns\Send\obj\Debug\net7.0\refint\Send.dll
+D:\.net\RabbitMq_Prd_Cns\Send\obj\Debug\net7.0\Send.pdb
+D:\.net\RabbitMq_Prd_Cns\Send\obj\Debug\net7.0\Send.genruntimeconfig.cache
+D:\.net\RabbitMq_Prd_Cns\Send\obj\Debug\net7.0\ref\Send.dll
